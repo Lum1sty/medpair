@@ -82,4 +82,3 @@ Masukan tentang kejelasan alur, penyajian sumber, dan perbedaan referensi dengan
 ## Kontributor
 
 - **MistyDev** — analisis kebutuhan, arahan pengembangan, peninjauan hasil, dan pengujian penggunaan aplikasi.
-- **ChatGPT (OpenAI)** — asisten AI yang membantu implementasi kode, pemecahan masalah teknis, penyusunan dokumentasi, dan materi portofolio.
