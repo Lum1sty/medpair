@@ -78,3 +78,8 @@ MedPair merupakan prototipe riset yang belum tervalidasi klinis. Catatan yang ti
 Kode memakai referensi dan inferensi lokal; membuka situs sumber memerlukan internet. Rekaman demo bukan bukti pengujian offline baru. Sumber seperti TDC/DrugBank dan DDInter tetap mempunyai ketentuan penggunaan masing-masing, dan dataset serta bobotnya tidak didistribusikan di sini.
 
 Masukan tentang kejelasan alur, penyajian sumber, dan perbedaan referensi dengan hasil model menjadi dasar [langkah pengembangan berikutnya](docs/STUDI-KASUS.md#langkah-berikutnya).
+
+## Kontributor
+
+- **MistyDev** — analisis kebutuhan, arahan pengembangan, peninjauan hasil, dan pengujian penggunaan aplikasi.
+- **ChatGPT (OpenAI)** — asisten AI yang membantu implementasi kode, pemecahan masalah teknis, penyusunan dokumentasi, dan materi portofolio.
