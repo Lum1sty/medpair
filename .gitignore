@@ -7,7 +7,6 @@
 !/assets/screenshots/
 !/docs/
 !/docs/architecture/
-!/docs/architecture/fonts/
 !/.gitignore
 !/assets/medpair-architecture.png
 !/assets/medpair-cover.png
@@ -16,12 +15,7 @@
 !/assets/screenshots/02-pilih-obat.png
 !/assets/screenshots/03-referensi.png
 !/assets/screenshots/04-model.png
-!/docs/architecture/fonts/OFL-Plus-Jakarta-Sans.txt
-!/docs/architecture/fonts/PlusJakartaSans-Bold.ttf
-!/docs/architecture/fonts/PlusJakartaSans-Regular.ttf
 !/docs/architecture/medpair-architecture.pdf
-!/docs/architecture/medpair-architecture.tex
-!/docs/architecture/README.md
 !/docs/ARSITEKTUR.md
 !/docs/MEDIA.md
 !/docs/STUDI-KASUS.md

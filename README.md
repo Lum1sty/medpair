@@ -52,7 +52,7 @@ Aspirin dan warfarin pada gambar digunakan untuk memperlihatkan alur aplikasi. G
 
 [![Arsitektur MedPair: alur referensi dan inferensi MLP](assets/medpair-architecture.png)](docs/ARSITEKTUR.md)
 
-[Penjelasan komponen dan alur](docs/ARSITEKTUR.md) · [PDF vektor](docs/architecture/medpair-architecture.pdf) · [Source diagram TeX](docs/architecture/medpair-architecture.tex) · [Cara membangun diagram](docs/architecture/README.md)
+[Penjelasan komponen dan alur](docs/ARSITEKTUR.md) · [PDF arsitektur](docs/architecture/medpair-architecture.pdf)
 
 ## Keputusan desain
 

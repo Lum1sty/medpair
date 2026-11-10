@@ -6,7 +6,7 @@ MedPair memakai **Flutter dan GetX** untuk antarmuka serta pengelolaan keadaan, 
 
 [![Delapan komponen alur referensi dan inferensi MedPair](../assets/medpair-architecture.png)](architecture/medpair-architecture.pdf)
 
-[PDF vektor](architecture/medpair-architecture.pdf) · [Source TeX yang dapat diedit](architecture/medpair-architecture.tex) · [Petunjuk membangun diagram](architecture/README.md)
+[Lihat PDF arsitektur](architecture/medpair-architecture.pdf)
 
 Diagram mengikuti objek dan kelas yang ditinjau pada kode internal: pemilihan A/B menghasilkan `InteractionResult`, kemudian konteks itu diteruskan ke halaman hasil referensi atau halaman model. Diagram menggambarkan alur utama ketika paket valid; cabang kegagalan ditangani melalui pesan dan keadaan aplikasi. Nama komponen di bawah menjelaskan implementasi, tanpa menyertakan source aplikasinya.
 
